@@ -1,3 +1,14 @@
+/**************************
+  *  Compilation:  javac Game.java
+  *  Execution:    java Game
+  *  Dependencies: Jframe.java, GamePanel.java
+  *
+  *  Runs Donkey Kong Arcade Game. 
+  * 
+  * Author: Julian Allende
+  *
+  *************************/
+
 import javax.swing.*;
 
 public class Game {

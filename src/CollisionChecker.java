@@ -1,3 +1,5 @@
+
+// Class for checking colission detection among entities
 public class CollisionChecker {
     GamePanel gp;
 

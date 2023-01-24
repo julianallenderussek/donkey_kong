@@ -1,6 +1,7 @@
 import java.awt.image.BufferedImage;
 import java.awt.Rectangle;
 
+// Parent class for game objects (Player, Barrel, Floor, Ladder);
 public class Entity {
     public int x,y;
     public int speed;
